@@ -1,6 +1,6 @@
 # Notion MCP Server
 
-We used a notion mcp server fro the notion part of the code 
+We used a notion mcp server for the notion ai notetaking 
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-blue)
