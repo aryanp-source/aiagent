@@ -1,5 +1,7 @@
 # Notion MCP Server
 
+We used a notion mcp server fro the notion part of the code 
+
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-blue)
 ![Model Context Protocol](https://img.shields.io/badge/MCP-Enabled-purple)
